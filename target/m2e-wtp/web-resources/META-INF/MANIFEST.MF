@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springbootdemo
+Implementation-Version: 0.5
+Built-By: think
+Implementation-Vendor-Id: com.idszhu
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/springbootde
+ mo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
